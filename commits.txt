@@ -1,0 +1,35 @@
+commit 44cc2bd63da3fb4ca6e1307d405cb562b9f96e67
+Author: Anhy <anahi.z.a@gmail.com>
+Date:   Sat Apr 30 18:54:44 2016 -0500
+
+    Agregué la pagina
+
+commit 88ca0c7b2d8277196ca7aa77328d5303d6fc9032
+Author: Anhy <anahi.z.a@gmail.com>
+Date:   Sat Apr 30 18:54:01 2016 -0500
+
+    Descripcion agregada
+
+commit 8ccf883f952aeeef95968cdd2ec8986f1155e8b3
+Author: Anhy <anahi.z.a@gmail.com>
+Date:   Sat Apr 30 18:41:40 2016 -0500
+
+    Agregué redes sociales
+
+commit 76cf28100cf8a2f8dcec93875e2be532c21e3213
+Author: Anhy <anahi.z.a@gmail.com>
+Date:   Sat Apr 30 18:38:13 2016 -0500
+
+    Agregué perfil web
+
+commit 9183273a9a45bec61fb2e3c03c6488d5747ac6ad
+Author: Anhy <anahi.z.a@gmail.com>
+Date:   Sat Apr 30 18:36:39 2016 -0500
+
+    Subi foto de perfil y mi nombre
+
+commit 9cc1b472e252221a302bc20d0a50b19ef248091e
+Author: Anhy <anahi.z.a@gmail.com>
+Date:   Sat Apr 30 18:29:56 2016 -0500
+
+    Estos son los archivos base en mi portafolio
